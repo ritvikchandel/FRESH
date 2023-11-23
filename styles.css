@@ -1,0 +1,87 @@
+body {background-color: black;
+}
+
+h1 {color: antiquewhite;
+text-align: center;
+text-decoration: underline;
+font-style: italic;
+font-weight: bold;
+position: absolute;
+    right: 18%;
+    bottom: 79%;}
+
+.img {width: 100%;
+    position: absolute;
+    right: 1%;
+    bottom: -92%;}
+
+    .img2 {width: 100%;
+    position: absolute;
+    right: 1%;
+    bottom: -92%;}
+
+        .img3 {width: 100%;
+    position: absolute;
+    right: 1%;
+    bottom: -92%;}
+
+            .img4 {width: 100%;
+    position: absolute;
+    right: 1%;
+    bottom: -92%;}
+
+.compare {color: antiquewhite;
+    position: absolute;
+    right: 76%;
+    bottom: 41%;
+;}
+
+    .compare2 {color: antiquewhite;
+        position: absolute;
+        right: 54%;
+        bottom: 41%;
+;}
+
+        .compare3 {color: antiquewhite;
+            position: absolute;
+            right: 32%;
+            bottom: 41%;
+;}
+
+            .compare4 {color: antiquewhite;
+                position: absolute;
+                right: 10%;
+                bottom: 41%;
+;}
+
+table, th, td {border: 1px solid white;}
+
+th, td {width: 100px;
+height: 40px;}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: black;
+    position: absolute;
+    right: 36%;
+    bottom: 90%;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: black;
+  }
